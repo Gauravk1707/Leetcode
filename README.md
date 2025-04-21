@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gauravk1707/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1848-sum-of-unique-elements](https://github.com/Gauravk1707/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,8 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravk1707/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1848-sum-of-unique-elements](https://github.com/Gauravk1707/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravk1707/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/Gauravk1707/Leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
